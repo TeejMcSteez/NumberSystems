@@ -4,7 +4,7 @@ int main() {
 
     int num;
     int i = 0;
-    int remArr[50], finArr[50];
+    int remArr[50];
 
     printf("Please enter a integer to convert to binary: ");
     scanf("%i", &num);
